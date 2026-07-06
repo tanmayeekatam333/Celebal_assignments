@@ -1,0 +1,11 @@
+product_id,old_name,new_name,price,category,status,amount,region,priority,user_id,base_price
+P101,Mobile A,,25000,Electronics,Completed,1500,North,High,U001,25000
+P102,Laptop B,,55000,Electronics,Pending,900,South,Medium,U002,55000
+P103,Shirt C,,1200,Fashion,Completed,2000,East,Low,U003,1200
+P104,TV D,,45000,Electronics,Completed,5000,North,High,U004,45000
+P105,Shoes E,,3000,Fashion,Cancelled,800,West,Medium,,3000
+P106,Headphone F,,2000,Electronics,Completed,1200,South,High,U006,2000
+P107,Watch G,,5000,Accessories,Pending,700,North,Low,U007,5000
+P108,Tablet H,,18000,Electronics,Completed,2500,East,High,U008,18000
+P109,Bag I,,1500,Accessories,Completed,1100,West,Medium,U009,1500
+P110,Camera J,,35000,Electronics,Completed,4000,North,High,,35000
