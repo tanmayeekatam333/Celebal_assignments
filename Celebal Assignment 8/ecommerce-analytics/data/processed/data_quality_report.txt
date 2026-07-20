@@ -1,0 +1,6 @@
+DATA QUALITY REPORT
+====================
+Orders: fixed 60 DD-MM-YYYY dates, 0 unparseable dates, 75 NULL/empty customer_ids.
+Products: normalized 78 product names.
+Customers: 10 invalid emails found (ids: [13, 53, 58, 72, 115, 126, 141, 328, 378, 380]).
+Order items: 6 rows reference a non-existent order_id (item_ids: [3995, 3996, 3997, 3998, 3999, 4000]).
